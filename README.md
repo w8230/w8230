@@ -9,6 +9,8 @@
 ### 💪 Skills
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/flutter-3DDC84?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/kotlin-48AD5F?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-48AD5F?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-48AD5F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-48AD5F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariaDB-E43422?style=flat-square&logo=codeigniter&logoColor=white"/>
